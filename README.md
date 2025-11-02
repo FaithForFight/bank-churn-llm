@@ -43,7 +43,7 @@ pip install jupyter notebook
 
 ```bash
 # Clonar repositorio (o descargar archivos)
-git clone https://github.com/[usuario]/bank-churn-llm
+git clone https://github.com/FaithForFight/bank-churn-llm
 cd bank-churn-llm
 
 # Instalar dependencias con pip
