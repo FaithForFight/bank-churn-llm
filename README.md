@@ -247,7 +247,7 @@ Este es un proyecto académico para el curso de Tópicos Avanzados en IA.
 
 ## 📞 Contacto
 
-Para consultas académicas, contactar a: ahmad.armoush@edu.uai.cl
+Para consultas académicas, contactar a: rhidalgoarias@gmail.com
 
 ---
 
